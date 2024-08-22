@@ -1,10 +1,10 @@
-name: Android CI
+name: Android CI Sanyakry 
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "Sanyakry" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "Sanyakry" ]
 
 jobs:
   build:
